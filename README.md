@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaviyarasan
-- 👀 I’m interested in application develepment
+- 👀 I’m interested in application developer
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
