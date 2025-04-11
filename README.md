@@ -3,5 +3,3 @@
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me kaviarasu1420@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving puzzles
